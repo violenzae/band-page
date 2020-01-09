@@ -1,0 +1,20 @@
+.sidebar {
+  float: left;
+  text-align: center;
+  width: 30%;
+  height: 800px;
+  background-color: black;
+  color: white;
+}
+
+body {
+  background-color: darkred;
+}
+
+img {
+  float: left;
+}
+
+h1 {
+  text-align: center;
+}
